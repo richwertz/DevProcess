@@ -1,0 +1,39 @@
+
+// styles.scss
+
+.testing {
+width: percentage(5/7);
+}
+
+.testingB {
+width: percentage(2/7);
+}
+
+.testingC {
+width: percentage(6/9);
+}
+
+.testingD {
+width: percentage(2/9);
+}
+
+body {
+background: black;
+color: yellow;
+font-family: Trebuchet MS;
+font-size: 12px;
+}
+
+h1 {
+font-size: 2em;
+padding: 20px 70px;
+}
+
+p {
+font-size: 1.5em;
+padding-left: 70px;
+}
+
+img {
+padding: 20px 70px;
+}

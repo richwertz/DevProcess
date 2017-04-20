@@ -1,0 +1,28 @@
+.testing {
+  width: 71.42857%; }
+
+.testingB {
+  width: 28.57143%; }
+
+.testingC {
+  width: 66.66667%; }
+
+.testingD {
+  width: 22.22222%; }
+
+body {
+  background: black;
+  color: yellow;
+  font-family: Trebuchet MS;
+  font-size: 12px; }
+
+h1 {
+  font-size: 2em;
+  padding: 20px 70px; }
+
+p {
+  font-size: 1.5em;
+  padding-left: 70px; }
+
+img {
+  padding: 20px 70px; }
